@@ -1,2 +1,2 @@
 # copy-manab-a8
-isara
+模写コーディングの右です。
